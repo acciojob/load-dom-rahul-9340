@@ -1,6 +1,6 @@
 //your JS code here. If required.
 
-document.addEventListener("DOMContentLoader",()=>{
+document.addEventListener("DOMContentLoaded",()=>{
 	document.body.innerText = "DOM load success"
 });
 
